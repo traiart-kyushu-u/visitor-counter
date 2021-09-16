@@ -1,0 +1,33 @@
+
+
+
+.btn--orange,
+a.btn--orange {
+  color: #fff;
+  background-color: #eb6100;
+}
+.btn--orange:hover,
+a.btn--orange:hover {
+  color: #fff;
+  background: #f56500;
+}
+
+
+.btn--grey,
+a.btn--orange {
+  color: #fff;
+  background-color: #7a7a7a;
+}
+.btn--grey:hover,
+a.btn--grey:hover {
+  color: #fff;
+  background: #7a7a7a;
+}
+
+
+
+.fa-position-left {
+  position: absolute;
+  top: calc(50% - .5em);
+  left: 1rem;
+}
